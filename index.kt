@@ -18,3 +18,5 @@
 
         추가 코드 작성
         asdfasdfasdfzxcvzxcvsdfzxcvasdf
+
+        git pull test 성공적
