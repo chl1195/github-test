@@ -12,3 +12,6 @@
 
         다섯 번째 코드 작성
         adfadsfacv./z,cmxopijrtq,.w r.,amf
+
+        팀원 코드 작성
+        asdfzxcvadsfxcasdfzcvasdf
